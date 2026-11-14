@@ -1,0 +1,6 @@
+{
+  "name": "ConceptAtlas",
+  "description": "Structured concept definition, visual concept mapping, multi-format export, and AI-assisted conceptual review.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
